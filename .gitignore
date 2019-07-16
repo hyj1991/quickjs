@@ -1,0 +1,14 @@
+.obj
+.idea
+CMakeLists.txt
+cmake-build-debug
+qjs
+qjsc
+repl.c
+qjsbn
+qjsbnc
+qjscalc.c
+repl-bn.c
+qjs-debug
+.vscode
+test.js
